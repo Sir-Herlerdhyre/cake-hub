@@ -6,7 +6,7 @@ const cakeData = [
     name: "Butter Cake",
     ingredients: "All-purpose flour,unsalted butter, Granulated sugar, Eggs",
     price: 500,
-    photoName: "/Images/butter-cake.jpeg",
+    photoName: "Images/butter-cake.jpeg",
     soldOut: false,
   },
   {
