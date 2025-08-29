@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cake-hub/static/css/main.9e41ab2d.css",
-    "main.js": "/cake-hub/static/js/main.ae7f8246.js",
+    "main.js": "/cake-hub/static/js/main.3f2fe8a6.js",
     "index.html": "/cake-hub/index.html",
     "main.9e41ab2d.css.map": "/cake-hub/static/css/main.9e41ab2d.css.map",
-    "main.ae7f8246.js.map": "/cake-hub/static/js/main.ae7f8246.js.map"
+    "main.3f2fe8a6.js.map": "/cake-hub/static/js/main.3f2fe8a6.js.map"
   },
   "entrypoints": [
     "static/css/main.9e41ab2d.css",
-    "static/js/main.ae7f8246.js"
+    "static/js/main.3f2fe8a6.js"
   ]
 }
