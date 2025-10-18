@@ -99,17 +99,6 @@ Each cake object contains:
 }
 ```
 
----
-
-## 💡 Future Improvements
-
-* 🛒 Add a real order form or cart system
-* 🌐 Fetch menu data dynamically from an API or backend
-* 📱 Improve mobile responsiveness
-* ☀️/🌙 Add light/dark mode
-* 💾 Store open-hour settings in a configuration file
-
----
 
 ## 🙌 Author
 
